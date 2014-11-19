@@ -1,0 +1,12 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+#permalink:	/blog/:title
+permalink:   /blog/:year/:month/:day/:title
+
+
+sass:
+  sass_dir: public/css
+  style: :compressed
